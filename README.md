@@ -1,4 +1,4 @@
-[!MasterHead](https://cdn.vectorstock.com/i/500p/66/15/artificial-intelligence-technology-banner-vector-33676615.jpg)(https://geetha-sandhya.io)
+[[!MasterHead](https://cdn.vectorstock.com/i/500p/66/15/artificial-intelligence-technology-banner-vector-33676615.jpg)]
 <h1 align="center">Hi 👋, I'm Geetha Sandhya</h1>
 <h3 align="center">A passionate AI Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
